@@ -1,0 +1,113 @@
+0000000000000000000000000000000000000000 8d2131f27c2de11bac2df62ba8a67f9ec54bebd7 lekanda <abernaolao@gmail.com> 1582897844 +0100	commit (initial): npm init
+8d2131f27c2de11bac2df62ba8a67f9ec54bebd7 7672437df5d99e3ee9456a35781da7ad24fc4440 lekanda <abernaolao@gmail.com> 1582900753 +0100	commit: 13:Creando el servidor express
+7672437df5d99e3ee9456a35781da7ad24fc4440 0f4f63fb58fa81a6100567d9d23ecf858891106e lekanda <abernaolao@gmail.com> 1582901666 +0100	commit: 13:Creando el servidor express fin
+0f4f63fb58fa81a6100567d9d23ecf858891106e 0926c980109ed78a711b0b5b847eea2f2ac72a8b lekanda <abernaolao@gmail.com> 1583005477 +0100	commit: 14:Basicos del ROUTER
+0926c980109ed78a711b0b5b847eea2f2ac72a8b 3bc05db1162f70b35d920f1f63714b7a2a0b5197 lekanda <abernaolao@gmail.com> 1583008211 +0100	commit: 15:Creando archivo de rutas
+3bc05db1162f70b35d920f1f63714b7a2a0b5197 d2777c60bbbad1cfd0e14a2a5f8b100e40efc785 lekanda <abernaolao@gmail.com> 1583051369 +0100	commit: 17:Creando el controlador de proyectos
+d2777c60bbbad1cfd0e14a2a5f8b100e40efc785 17f3f8a75d597416687982f555aabceceb1191d0 lekanda <abernaolao@gmail.com> 1583057346 +0100	commit: 17:Habilitar PUG y Vistas
+17f3f8a75d597416687982f555aabceceb1191d0 4e454ca100bb4fa3d560cf23ce9de10c75ceaf2e lekanda <abernaolao@gmail.com> 1583057413 +0100	commit (amend): 19:Habilitar PUG Y Vistas
+4e454ca100bb4fa3d560cf23ce9de10c75ceaf2e 3b2750ff6930a4a1a4a653e2801da7d95f921143 lekanda <abernaolao@gmail.com> 1583061392 +0100	commit: 20:Creando la Master Page
+3b2750ff6930a4a1a4a653e2801da7d95f921143 fae90c344048a6fd6adbf5f22e96642c4d3c09d7 lekanda <abernaolao@gmail.com> 1583067271 +0100	commit: 21:Habilitando los archivos Estaticos y finalizando el Master Page
+fae90c344048a6fd6adbf5f22e96642c4d3c09d7 d9233d6da3dbac6eea76024f3944660b09c77301 lekanda <abernaolao@gmail.com> 1583069134 +0100	commit: 22:Crear Seccion Nuevos Proyectos
+d9233d6da3dbac6eea76024f3944660b09c77301 f37d9316bd2dd4084c6a53da79639329adb0f033 lekanda <abernaolao@gmail.com> 1583069954 +0100	commit: 23:Crear Formulario para nuevo-proyecto
+f37d9316bd2dd4084c6a53da79639329adb0f033 cb34e351746582d6e765bf1f742b2d6d50188d08 lekanda <abernaolao@gmail.com> 1583088393 +0100	commit: 24:Enviando el formulario en Express
+cb34e351746582d6e765bf1f742b2d6d50188d08 e3bf0090366dd32d28b0f6bc38a6284a67e22d30 lekanda <abernaolao@gmail.com> 1583089476 +0100	commit: 25:Leyendo los datos de un formulario Express
+e3bf0090366dd32d28b0f6bc38a6284a67e22d30 a536c68c8f7cb39615727f5046ed28a11e5d997c lekanda <abernaolao@gmail.com> 1583091552 +0100	commit: 26:Validacion Simple de un Formulario
+a536c68c8f7cb39615727f5046ed28a11e5d997c 9be63594c07684bd43f33c392c21d84e5a18704b lekanda <abernaolao@gmail.com> 1583140187 +0100	commit: 32:Instalando y configurando Sequelize
+9be63594c07684bd43f33c392c21d84e5a18704b f0ae1e20585fd9d13d9b2c4e3bd33b19cfb192f3 lekanda <abernaolao@gmail.com> 1583143217 +0100	commit: 33:Creando el Modelo
+f0ae1e20585fd9d13d9b2c4e3bd33b19cfb192f3 1fcb6aa46df0ccf17acb4282973bd4804156efd4 lekanda <abernaolao@gmail.com> 1583151241 +0100	commit: 34:Permitir que sequelize cree las tablas Automaticamente
+1fcb6aa46df0ccf17acb4282973bd4804156efd4 9dda322aae5d84f68a91f85d59e1b956155ccf3c lekanda <abernaolao@gmail.com> 1583181217 +0100	commit: 35: Insertando registros con Sequelize y Promesas
+9dda322aae5d84f68a91f85d59e1b956155ccf3c 09a9cf3c0776e30de15a5104a53f53f1ccc2cdf4 lekanda <abernaolao@gmail.com> 1583249077 +0100	commit: 36: Insertando registros con Sequelize y Async Await
+09a9cf3c0776e30de15a5104a53f53f1ccc2cdf4 019972629c0f2f501add5dde68e829f14b9d7635 lekanda <abernaolao@gmail.com> 1583253581 +0100	commit: 37:Sanitizar entradas antes de guardar en DB
+019972629c0f2f501add5dde68e829f14b9d7635 2553427066b91b797906b22aab607d288ac0ecc7 lekanda <abernaolao@gmail.com> 1583256536 +0100	commit: 38:Generando una URL de proyecto
+2553427066b91b797906b22aab607d288ac0ecc7 63814ad2d087e2c1b2a8164655ae51140917fe42 lekanda <abernaolao@gmail.com> 1583259192 +0100	commit: 38:HOOKS para generar URLs Automaticamente
+63814ad2d087e2c1b2a8164655ae51140917fe42 c5b87e1d707d1fa6c1717425c62c2f30e88b37db lekanda <abernaolao@gmail.com> 1583259261 +0100	commit (amend): 39:HOOKS para generar URLs Automaticamente
+c5b87e1d707d1fa6c1717425c62c2f30e88b37db 3c59cc0f3e413478b463430dfaedcb19907b65bd lekanda <abernaolao@gmail.com> 1583268085 +0100	commit: 40:Generando una URL unica Automaticamente
+3c59cc0f3e413478b463430dfaedcb19907b65bd 2b1228a7bacc4f4f6d49d63280eb8150d9e1f18f lekanda <abernaolao@gmail.com> 1583319473 +0100	commit: 41:Consultando la DB y pasando el resultado a las vistas
+2b1228a7bacc4f4f6d49d63280eb8150d9e1f18f 97c909d5e044961e951a02dc2422fb9358ef1aa8 lekanda <abernaolao@gmail.com> 1583325529 +0100	commit: 42:Creando un Helper para ver que datos obtenemos de la DB
+97c909d5e044961e951a02dc2422fb9358ef1aa8 a46a6bc3b2cd1b9231142d8e9873dd196c66e701 lekanda <abernaolao@gmail.com> 1583327181 +0100	commit: 43:Pasando un Helper a la vista y comprendiendo el Middleware
+a46a6bc3b2cd1b9231142d8e9873dd196c66e701 9ccde61a712b190c84d4730fe7f1123926221fe7 lekanda <abernaolao@gmail.com> 1583343667 +0100	commit: 43:Pasando un Helper a la vista y comprendiendo el Middleware-2
+9ccde61a712b190c84d4730fe7f1123926221fe7 85c4922ed49b65183a31fefc8956c9d2bae9502c lekanda <abernaolao@gmail.com> 1583345569 +0100	commit: 43:Pasando un Helper a la vista y comprendiendo el Middleware-arreglar fallos
+85c4922ed49b65183a31fefc8956c9d2bae9502c 6724cc118182bcac020bb569e13e5768149ef0c7 lekanda <abernaolao@gmail.com> 1583351252 +0100	commit: 44:Agregando routing a los distintos proyectos
+6724cc118182bcac020bb569e13e5768149ef0c7 9a380cfc6b07ee3e161050ad4d4ef4d757f70b18 lekanda <abernaolao@gmail.com> 1583354402 +0100	commit: 45:Finalizando el Routing para cada proyecto
+9a380cfc6b07ee3e161050ad4d4ef4d757f70b18 6d1386aa85553a9abab2556312420816c5acda4f lekanda <abernaolao@gmail.com> 1583401040 +0100	commit: 46:Crear las acciones Editar y eliminar en el Formulario
+6d1386aa85553a9abab2556312420816c5acda4f 83399fd125ee6887556c3680c20d165fc7231a91 lekanda <abernaolao@gmail.com> 1583401918 +0100	commit: 48:Creando el Formulario para editar el Proyecto
+83399fd125ee6887556c3680c20d165fc7231a91 9236e70764aa647e1523fd8c8fabf0215d82169e lekanda <abernaolao@gmail.com> 1583402007 +0100	commit (amend): 47:Creando el Formulario para editar el Proyecto
+9236e70764aa647e1523fd8c8fabf0215d82169e 42ffed8cb73825c429c156b7c014129ce4dd052a lekanda <abernaolao@gmail.com> 1583402145 +0100	pull: Merge made by the 'recursive' strategy.
+42ffed8cb73825c429c156b7c014129ce4dd052a 249ed7b75073cf289a29ad1e3f5b6cccd4dbc0d3 lekanda <abernaolao@gmail.com> 1583403227 +0100	commit: 48:Creando el Formulario para Editar el Proyecto
+249ed7b75073cf289a29ad1e3f5b6cccd4dbc0d3 ff2ed6e41088e94232d384bc8f00fe923e8652b7 lekanda <abernaolao@gmail.com> 1583406126 +0100	commit: 48:Creando el Formulario para Editar el Proyecto. CORREGIDOS ERRORES
+ff2ed6e41088e94232d384bc8f00fe923e8652b7 8cddd5a5e7c843c635671bc9d6aae28e9bb8c9a7 lekanda <abernaolao@gmail.com> 1583406333 +0100	commit (amend): 49:Guardar cambios cuando se modifica nombre de Proyecto. ERRORES SOLUCIONADOS
+8cddd5a5e7c843c635671bc9d6aae28e9bb8c9a7 35a9b9d2630927be0cb2bb0789d2c6014833001b lekanda <abernaolao@gmail.com> 1583406370 +0100	pull: Merge made by the 'recursive' strategy.
+35a9b9d2630927be0cb2bb0789d2c6014833001b 57551df40a31f8698ad851b43bc730f78e84df6a lekanda <abernaolao@gmail.com> 1583417371 +0100	commit: 50:Configurando WEBPACK
+57551df40a31f8698ad851b43bc730f78e84df6a 38a26ef017ae8c0c04d3d17da6cfda3abca869ac lekanda <abernaolao@gmail.com> 1583862078 +0100	commit: 51 y 52
+38a26ef017ae8c0c04d3d17da6cfda3abca869ac c5b01dc5aefd03f3c8229c76f7eac941c07cc996 lekanda <abernaolao@gmail.com> 1583936103 +0100	commit: 52:Fin , Configurar alerta de eliminado
+c5b01dc5aefd03f3c8229c76f7eac941c07cc996 c44ec8ad3915f97ef3cec4ca15da17f9d61c984e lekanda <abernaolao@gmail.com> 1584020149 +0100	commit: 53:Enviando una peticion con Axios para eliminar
+c44ec8ad3915f97ef3cec4ca15da17f9d61c984e cdbd2fb268ed368abe4c9fe4b89ff4457201c45e lekanda <abernaolao@gmail.com> 1584024116 +0100	commit: 54:Eliminando Proyecto y enviando una respuesta hacia el frontend desde el backend
+cdbd2fb268ed368abe4c9fe4b89ff4457201c45e 16b9580badfe3460293de24ddcda1e6f06c01a4b lekanda <abernaolao@gmail.com> 1584030550 +0100	commit: 55:Errores
+16b9580badfe3460293de24ddcda1e6f06c01a4b dd1b421157a66ca902cf23da7af21d3e813f67a6 lekanda <abernaolao@gmail.com> 1584119147 +0100	commit: 56y 57:Craer modelo Tareas y formulario
+dd1b421157a66ca902cf23da7af21d3e813f67a6 6750868498f030e907d6ddc659c06373baec1820 lekanda <abernaolao@gmail.com> 1584124145 +0100	commit: 58:Almacenando las tareas en la DB
+6750868498f030e907d6ddc659c06373baec1820 fdb2f1036db97998eda2e8eaad14a4cf22a8861d lekanda <abernaolao@gmail.com> 1584211975 +0100	commit: 59: Realizando la consulta para las Tareas
+fdb2f1036db97998eda2e8eaad14a4cf22a8861d 189e5edae8d0376ecee18d9cd34b085f330bbbb1 lekanda <abernaolao@gmail.com> 1584213374 +0100	commit: 60:Imprimiendo las tareas en HTML
+189e5edae8d0376ecee18d9cd34b085f330bbbb1 d9d04b1e39bcd1d7e05ca26db195b16c08148986 lekanda <abernaolao@gmail.com> 1584263747 +0100	commit: 61: Detectando el ID de la Tarea que se marca como completo
+d9d04b1e39bcd1d7e05ca26db195b16c08148986 7e800249623f9108e9e32b7664ee9e60c765c864 lekanda <abernaolao@gmail.com> 1584271267 +0100	commit: 62: Enviando una Peticion para cambiar el Estado de la Tarea
+7e800249623f9108e9e32b7664ee9e60c765c864 4fe377f38c9f1c92feb974236b37301eeb4acb15 lekanda <abernaolao@gmail.com> 1584538151 +0100	commit: 63:Marcando las Tareas que han sido completadas
+4fe377f38c9f1c92feb974236b37301eeb4acb15 8dd3a58582a04e6595886c4e7235b7f4380d06df lekanda <abernaolao@gmail.com> 1584554728 +0100	commit: 64: Detectando la Tarea que se desea eliminar
+8dd3a58582a04e6595886c4e7235b7f4380d06df e6ea9c67ee2c7f8e0cfd3e4516bf88798636bf8d lekanda <abernaolao@gmail.com> 1584610582 +0100	commit: 65:Eliminando tarea del DOM y la DB
+e6ea9c67ee2c7f8e0cfd3e4516bf88798636bf8d 1a74b7457c27337b61d3e3dac7647430710126d8 lekanda <abernaolao@gmail.com> 1584625358 +0100	commit: 66:Creando una barra de Avance
+1a74b7457c27337b61d3e3dac7647430710126d8 f88999942587f39a7c9b519c36cde597e4802ade lekanda <abernaolao@gmail.com> 1584700582 +0100	commit: 67:Detectando el avance de nuestro proyecto
+f88999942587f39a7c9b519c36cde597e4802ade 2cda8bde3f915125bceeef83e8cddad2824847f8 lekanda <abernaolao@gmail.com> 1584726293 +0100	commit: 68:Creando el Template para crear cuenta y almacenar usuario en DB
+2cda8bde3f915125bceeef83e8cddad2824847f8 2c40ae40d20798a0eab684ec07f1dd9abd3f8e22 lekanda <abernaolao@gmail.com> 1584781627 +0100	commit: 70:Creando el modelo Usuarios
+2c40ae40d20798a0eab684ec07f1dd9abd3f8e22 9ead320a4b70c87638d51f6fdb9bfaf5282a30f9 lekanda <abernaolao@gmail.com> 1584796160 +0100	commit: 71:Almacenando los usuarios en la DB
+9ead320a4b70c87638d51f6fdb9bfaf5282a30f9 318a616534c39a98c1798aeb402ba30ae9342d3c lekanda <abernaolao@gmail.com> 1584798755 +0100	commit: 72: Hashear los Passwords en Node con bcrypt
+318a616534c39a98c1798aeb402ba30ae9342d3c d9fab84c92f33dac8a42e003ea561985c38222f2 lekanda <abernaolao@gmail.com> 1584813684 +0100	commit: 73:Validando el Formulario para crear Cuentas
+d9fab84c92f33dac8a42e003ea561985c38222f2 4376b3f2f7adf5c658a217d66d37a9ca71da7c9e lekanda <abernaolao@gmail.com> 1584866991 +0100	commit: 74: Mostarndo los errores en pantalla
+4376b3f2f7adf5c658a217d66d37a9ca71da7c9e b91d9fca4a239fa761a5fcceaabc69095b7e0563 lekanda <abernaolao@gmail.com> 1584957491 +0100	commit: 75:Agregando Connect Flash para mejorflexibilidad de alertas
+b91d9fca4a239fa761a5fcceaabc69095b7e0563 fe2d38b412c51337020c80902da480ac56776450 lekanda <abernaolao@gmail.com> 1584971796 +0100	commit: 76:Autorellenando los campos cuando los formularios esten vacios
+fe2d38b412c51337020c80902da480ac56776450 10e1637f78d2aba518e6604676e4f83adc4902cf lekanda <abernaolao@gmail.com> 1584977936 +0100	commit: 77:Creando el formulario de iniciar sesion y rutas
+10e1637f78d2aba518e6604676e4f83adc4902cf d91dd11422e3dd3b4d0778a4751d4c2e157cd572 lekanda <abernaolao@gmail.com> 1584990055 +0100	commit: 78: Instalando y configurando Passport
+d91dd11422e3dd3b4d0778a4751d4c2e157cd572 a771e15bd762cf23cfc77d4d8193af39527dfaeb lekanda <abernaolao@gmail.com> 1585073457 +0100	commit: 80:Autenticando Usuarios
+a771e15bd762cf23cfc77d4d8193af39527dfaeb 48b804d649510166b24e679013d8e003cafcda95 lekanda <abernaolao@gmail.com> 1585073593 +0100	commit (amend): 79:Comparar pasword hasheado y finalizar configuracion de passport
+48b804d649510166b24e679013d8e003cafcda95 b4167b11431464087a0624185c44f410724e562f lekanda <abernaolao@gmail.com> 1585147003 +0100	commit: 80:Autenticar usuarios
+b4167b11431464087a0624185c44f410724e562f d4f5c528cf8f0aeda3c4afe4d5c58a1bbc3b9443 lekanda <abernaolao@gmail.com> 1585147105 +0100	commit: 81:Autorizando usuarios(revisar)
+d4f5c528cf8f0aeda3c4afe4d5c58a1bbc3b9443 f042885bfee8e247b34c83f4752c4809edfb5e26 lekanda <abernaolao@gmail.com> 1585148588 +0100	commit: 82:Cerrar Sesion
+f042885bfee8e247b34c83f4752c4809edfb5e26 1a4afc6b8aadc461a200f7b211df505f3c8f2029 lekanda <abernaolao@gmail.com> 1585149315 +0100	commit: 83:Como acceder a la informacion del usuario Autenticado
+1a4afc6b8aadc461a200f7b211df505f3c8f2029 4c9d4d477c7c4f290b350105ae38036baa7c86a0 lekanda <abernaolao@gmail.com> 1585155377 +0100	commit: 85:Mostrar al Usuario autenticando unicamente sus proyectos
+4c9d4d477c7c4f290b350105ae38036baa7c86a0 98d6addf260e7522d5b3027df28346445447b27b lekanda <abernaolao@gmail.com> 1585155451 +0100	commit (amend): 84:Almacenar el Usuario que ha creado el Proyecto
+98d6addf260e7522d5b3027df28346445447b27b 0f27fbcf74993905d4a39d0a563f13f7e74541b8 lekanda <abernaolao@gmail.com> 1585157692 +0100	commit: 85:Mostrar al Usuario autenticando unicamente sus proyectos
+0f27fbcf74993905d4a39d0a563f13f7e74541b8 d497d870bdf4ac591d53ffa57aea5bde3af98512 lekanda <abernaolao@gmail.com> 1585162793 +0100	commit: 86:Creando el formulario para reestablecer el Password
+d497d870bdf4ac591d53ffa57aea5bde3af98512 5de74ec82bf30234a67ebcc308898bf16d0748a7 lekanda <abernaolao@gmail.com> 1585167465 +0100	commit: 86:Creando el Formulario para Reestablecer el Password
+5de74ec82bf30234a67ebcc308898bf16d0748a7 30e7e713f6e5cbafb73f900a7a91764d5d5e81fc lekanda <abernaolao@gmail.com> 1585169127 +0100	commit: 87:Verificando que la cuenta Existe
+30e7e713f6e5cbafb73f900a7a91764d5d5e81fc d07896f9e51fdbee7b1c698aba2132ae0a530935 lekanda <abernaolao@gmail.com> 1585226330 +0100	commit: 88:Generando el Token para Reestablecer el Password
+d07896f9e51fdbee7b1c698aba2132ae0a530935 9d0a3ca4f10fc60493316b0ef53d6261bbea8905 lekanda <abernaolao@gmail.com> 1585233222 +0100	commit: 89: Verificando que el token sea valido
+9d0a3ca4f10fc60493316b0ef53d6261bbea8905 e32188c2c8a9572257cd1702747e9c03c7824fc8 lekanda <abernaolao@gmail.com> 1585235445 +0100	commit: 90y91:91 hasta mitad
+e32188c2c8a9572257cd1702747e9c03c7824fc8 bca043f950d9ee74e6ff4e84305bda95eb2f3fc5 lekanda <abernaolao@gmail.com> 1585236307 +0100	commit: 91:Hasheando, Almacenando el nuevo Passy limpiando el token anterior
+bca043f950d9ee74e6ff4e84305bda95eb2f3fc5 59685078c1e2f98a18d4c6b69d1c5d841e12a2ae lekanda <abernaolao@gmail.com> 1585247912 +0100	commit: 92:Configurando NodeMailer y enviando un mail de Prueba
+59685078c1e2f98a18d4c6b69d1c5d841e12a2ae 4ce2aab45b70f86f9719100ba4b313f2a97dd61a lekanda <abernaolao@gmail.com> 1585329126 +0100	commit: 93:Enviando el Mail para Resetear el Password
+4ce2aab45b70f86f9719100ba4b313f2a97dd61a 802736346675d92b03ee86d7be0dcaaa040e77f8 lekanda <abernaolao@gmail.com> 1585395997 +0100	commit: 94y95:Terminando la configuracion
+802736346675d92b03ee86d7be0dcaaa040e77f8 c079f74a86222fa7511a0c8f582ff745ecd8772e lekanda <abernaolao@gmail.com> 1585402629 +0100	commit: 94y95:Terminando la configuracion
+c079f74a86222fa7511a0c8f582ff745ecd8772e bb0fbeaa5c56a3d8a5bb95ded366a31963f02ad3 lekanda <abernaolao@gmail.com> 1585402783 +0100	commit (amend): 96:Generando el Email de confirmacion de cuenta
+bb0fbeaa5c56a3d8a5bb95ded366a31963f02ad3 a0de8488e3393a9937716bcb6f532306c401751a lekanda <abernaolao@gmail.com> 1585404454 +0100	commit: 97:activando la cuenta cuando el usuario confirma el eMail
+a0de8488e3393a9937716bcb6f532306c401751a 178fd6f86e1c62f8d3d9b0e9fe1a3cb994c8e5c8 lekanda <abernaolao@gmail.com> 1585404540 +0100	merge refs/remotes/origin/master: Merge made by the 'recursive' strategy.
+178fd6f86e1c62f8d3d9b0e9fe1a3cb994c8e5c8 db225c05d1b06b8892f3fdf7e0ac218dd78b117c lekanda <abernaolao@gmail.com> 1585408465 +0100	commit: 99:Variables de entorno para la DB
+db225c05d1b06b8892f3fdf7e0ac218dd78b117c fd747cb86ebf2b6c82168cf9287542609c0fdc32 lekanda <abernaolao@gmail.com> 1585409121 +0100	commit: 100:Variables de entorno para el Servidor
+fd747cb86ebf2b6c82168cf9287542609c0fdc32 aa7d3db9a2e47a178e813afa60e706e9bb330c28 lekanda <abernaolao@gmail.com> 1585409544 +0100	commit: 101:Preparando el repositorio
+aa7d3db9a2e47a178e813afa60e706e9bb330c28 e5308dda2027df242f9cde86ab89cfb85997e867 lekanda <abernaolao@gmail.com> 1585418842 +0100	commit: commit pruebba 1
+e5308dda2027df242f9cde86ab89cfb85997e867 ba2a24b81be863ee1c834b0ed4563707028dcc5f lekanda <abernaolao@gmail.com> 1585470433 +0200	commit: commit pruebba 2
+ba2a24b81be863ee1c834b0ed4563707028dcc5f d370b54ee61903a47ed885bd26ffba8e5a902dc4 lekanda <abernaolao@gmail.com> 1585470559 +0200	commit: commit pruebba 3
+d370b54ee61903a47ed885bd26ffba8e5a902dc4 b08554d8351f335826b763c0ca81d902c4a0d8c5 lekanda <abernaolao@gmail.com> 1585470926 +0200	commit: commit pruebba 4
+b08554d8351f335826b763c0ca81d902c4a0d8c5 09863bf203ac363ee2ee09cdb1e23dafa816882e lekanda <abernaolao@gmail.com> 1585499566 +0200	commit: Procfile creado
+09863bf203ac363ee2ee09cdb1e23dafa816882e be0f870e8b0566d24e555f205ef950943e897e5d lekanda <abernaolao@gmail.com> 1585499925 +0200	commit: Elimino PORT de variables.env
+be0f870e8b0566d24e555f205ef950943e897e5d 6a8d58575ff0c5149a625c42a1f15452205c5088 lekanda <abernaolao@gmail.com> 1585501259 +0200	commit (merge): prueba 10
+6a8d58575ff0c5149a625c42a1f15452205c5088 c6b86e9dc1cbe585affb7a53f69b4d4dde352523 lekanda <abernaolao@gmail.com> 1585511640 +0200	commit: prueba 11
+c6b86e9dc1cbe585affb7a53f69b4d4dde352523 1f96f96c0342a87667db51a13965444bc9916e09 lekanda <abernaolao@gmail.com> 1585512394 +0200	commit: prueba 12
+1f96f96c0342a87667db51a13965444bc9916e09 7b81276e22bd1a94101ce13846b2081d5bda5b9e lekanda <abernaolao@gmail.com> 1585558189 +0200	commit: Prueba13
+7b81276e22bd1a94101ce13846b2081d5bda5b9e 499146ec8e617bf8be8390f197ed4b91ad32f196 lekanda <abernaolao@gmail.com> 1585558355 +0200	commit: Prueba14
+499146ec8e617bf8be8390f197ed4b91ad32f196 306d8df564ba234a8a4e815e4966035321a81b40 lekanda <abernaolao@gmail.com> 1585562381 +0200	commit: prueba 14
+306d8df564ba234a8a4e815e4966035321a81b40 e78c2710fbb36db6c1079dd4ba8d79557dc179ae lekanda <abernaolao@gmail.com> 1585601047 +0200	commit: prueba 15
+e78c2710fbb36db6c1079dd4ba8d79557dc179ae 93b498158a790b4214ab7f06b49c0e43dbee7d49 lekanda <abernaolao@gmail.com> 1585601441 +0200	commit: prueba 16
+93b498158a790b4214ab7f06b49c0e43dbee7d49 61f306f2e77f8431082ff81249ec927062589813 lekanda <abernaolao@gmail.com> 1585601752 +0200	commit: prueba 17
+61f306f2e77f8431082ff81249ec927062589813 008d7b3578b7af286072239abf0cb00f28356df9 lekanda <abernaolao@gmail.com> 1585602136 +0200	commit: prueba 18
+008d7b3578b7af286072239abf0cb00f28356df9 706fa53d37f2157c5378748ddcace224a57fb7d6 lekanda <abernaolao@gmail.com> 1585602303 +0200	commit: prueba 19
+706fa53d37f2157c5378748ddcace224a57fb7d6 e3687d6b74407c272cd8737a2b34f5e81b50ed95 lekanda <abernaolao@gmail.com> 1585604211 +0200	commit: prueba 20
+e3687d6b74407c272cd8737a2b34f5e81b50ed95 340a1bea53910f6060c259dfc26e7364320fc34f lekanda <abernaolao@gmail.com> 1585604683 +0200	commit: prueba 21
+340a1bea53910f6060c259dfc26e7364320fc34f f4d0c8e85d197f6e6063eb03c2ff0ed2e577238c lekanda <abernaolao@gmail.com> 1585638267 +0200	commit: prueba 16
